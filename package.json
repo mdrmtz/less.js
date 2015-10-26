@@ -1,6 +1,6 @@
 {
   "name": "less",
-  "version": "2.5.3",
+  "version": "2.5.3-b1",
   "description": "Leaner CSS",
   "homepage": "http://lesscss.org",
   "author": {
@@ -11,11 +11,11 @@
     "The Core Less Team"
   ],
   "bugs": {
-    "url": "https://github.com/less/less.js/issues"
+    "url": "https://github.com/mdrmtz/less.js/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/less/less.js.git"
+    "url": "https://github.com/mdrmtz/less.js.git"
   },
   "license": "Apache-2.0",
   "bin": {
